@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ujang-mencari-berkah.pages.dev/sitemap.xml
+Sitemap: https://sepatu4dku.pages.dev/sitemap.xml
